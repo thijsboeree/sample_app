@@ -13,6 +13,8 @@ header {
 header img {
 	padding: 1em;
 	background: #fff;
+	width: 100px;
+	height: 100px;
 }
 
 section {
